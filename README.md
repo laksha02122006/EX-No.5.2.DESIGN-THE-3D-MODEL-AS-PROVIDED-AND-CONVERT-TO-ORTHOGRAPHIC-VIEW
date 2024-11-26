@@ -1,4 +1,6 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+# Name : V.B.Laksha
+# Reg no. 24900349
 ## DATE:
 
 ## AIM: 
@@ -36,6 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![snipped ex  5 2](https://github.com/user-attachments/assets/d1f8290f-9ce0-4a00-b7f8-afb43c193f26)
 
 
 ## RESULT:
